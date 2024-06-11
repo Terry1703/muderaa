@@ -1,0 +1,20 @@
+body{
+    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKsyqGAhSbAntjU4b7JD_I8iY-mAbrdU8CoQroPDbKDjpMbaRcfG_xyZYOwsUhePlPo7M&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: plum;
+    text-size-adjust: 60;
+    font-style: oblique;}
+h6{
+   font-size:xx-large;
+   text-align: center;
+   color: blanchedalmond;
+}
+title{
+    margin-top: auto;
+}
+
