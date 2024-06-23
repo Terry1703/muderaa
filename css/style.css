@@ -1,6 +1,6 @@
 body{
     
-    background-image: url(https://images.unsplash.com/photo-1718078942734-2e039bd097a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNnx8fGVufDB8fHx8fA%3D%3D);
+    background-image: url(https://images.unsplash.com/photo-1718554517651-1978c9fe3a6d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMnx8fGVufDB8fHx8fA%3D%3D);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -28,5 +28,18 @@ h6{
     text-decoration-color: blue;
     text-decoration-line: initial;
     text tab-size: font-size: 70;
+}
+table{
+    border: ipx solid burlywood;
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid yellowgreen;
+    text-align: center;
+    text-size-adjust: 100;
+    text-decoration-color: yellow;
+}
+.img{
+    height: 50px;
 }
 
